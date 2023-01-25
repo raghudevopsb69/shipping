@@ -1,0 +1,8 @@
+component: shipping
+appVersion: 2.0.0
+
+service:
+  type: ClusterIP
+  targetPort: 8080
+
+

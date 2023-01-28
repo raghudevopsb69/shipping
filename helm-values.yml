@@ -7,4 +7,9 @@ service:
 
 initcontainer: true
 
+resources:
+  memory: "2048Mi"
+  cpu: "1000m"
+
+
 
